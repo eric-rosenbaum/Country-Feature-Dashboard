@@ -1,0 +1,44 @@
+{
+  "Happiness Score": {
+    "Life Expectancy": 0.08419363419637338,
+    "GDP per Capita": 0.7565328205672477,
+    "Alcohol (Liters/Person/Year)": 0.03910417018830365,
+    "Unemployment Rate": 0.048236707519053096,
+    "Birth Rate": 0.07193266752902211
+  },
+  "Life Expectancy": {
+    "Happiness Score": 0.03495172278652209,
+    "GDP per Capita": 0.4679144290106917,
+    "Alcohol (Liters/Person/Year)": 0.02562855008053424,
+    "Unemployment Rate": 0.04048397341296631,
+    "Birth Rate": 0.43102132470928567
+  },
+  "GDP per Capita": {
+    "Happiness Score": 0.3612470819213987,
+    "Life Expectancy": 0.5504252013315013,
+    "Alcohol (Liters/Person/Year)": 0.04262314788399981,
+    "Unemployment Rate": 0.018747047460567438,
+    "Birth Rate": 0.0269575214025327
+  },
+  "Alcohol (Liters/Person/Year)": {
+    "Happiness Score": 0.05573283446390798,
+    "Life Expectancy": 0.04301832695234267,
+    "GDP per Capita": 0.17927058547733135,
+    "Unemployment Rate": 0.06415263369049753,
+    "Birth Rate": 0.6578256194159204
+  },
+  "Unemployment Rate": {
+    "Happiness Score": 0.3148281298278138,
+    "Life Expectancy": 0.2664847199200127,
+    "GDP per Capita": 0.21803329337052035,
+    "Alcohol (Liters/Person/Year)": 0.07271345594440663,
+    "Birth Rate": 0.12794040093724662
+  },
+  "Birth Rate": {
+    "Happiness Score": 0.024141325173248688,
+    "Life Expectancy": 0.43826143025827535,
+    "GDP per Capita": 0.37126802219570315,
+    "Alcohol (Liters/Person/Year)": 0.1018500902898738,
+    "Unemployment Rate": 0.06447913208289908
+  }
+}

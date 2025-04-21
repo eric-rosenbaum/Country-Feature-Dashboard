@@ -1,0 +1,8 @@
+Feature,Meaning,Source,Link
+Happiness Score,"The average response in a country to the following question, \nadministered in the Gallup World Poll: Please imagine a ladder with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you.	On which step of the ladder would you say you personally feel you stand at this time?
+",World Happiness Report,https://worldhappiness.report/data-sharing/
+Life Expectancy,"Life expectancy at birth, total (years)",World Bank Group,https://data.worldbank.org/indicator/SP.DYN.LE00.IN
+Alcohol (Liters/Person/Year),"Liters of pure alcohol consumed per person, per year. (Note: this is pure alcohol, so by this metric, drinking one liter of 5% beer would be considered 0.05 Liters)",CIA,https://www.cia.gov/the-world-factbook/field/alcohol-consumption-per-capita/country-comparison/
+GDP per Capita,GDP per capita (current US$),World Bank Group,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+Unemployment Rate,Percentage of people in the labor force who are actively looking for work but not currently employed.,Kaggle,https://www.kaggle.com/datasets/nelgiriyewithana/world-educational-data
+Birth Rate,"Births per 1,000 people per year",Kaggle,https://www.kaggle.com/datasets/nelgiriyewithana/world-educational-data
